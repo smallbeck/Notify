@@ -1,0 +1,27 @@
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\bin\Debug\AwsSnsSample1.exe.config
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\bin\Debug\AwsSnsSample1.exe
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\bin\Debug\AwsSnsSample1.pdb
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\bin\Debug\AWSSDK.dll
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\bin\Debug\AWSSDK.xml
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.csprojResolveAssemblyReference.cache
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.NotificationSender.resources
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.csproj.GenerateResource.Cache
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.exe
+c:\users\kami\documents\visual studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.pdb
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.CreateTopic.resources
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.SendMessage.resources
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsSample1\AwsSnsSample1\obj\Debug\AwsSnsSample1.Subscriber.resources
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsV.04\AwsSnsSample1\bin\Debug\AwsSnsSample1.exe.config
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.exe
+C:\Users\Kami\Documents\Visual Studio 2012\Projects\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.pdb
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\bin\Debug\AwsSnsSample1.exe.config
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\bin\Debug\AwsSnsSample1.exe
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\bin\Debug\AwsSnsSample1.pdb
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.CreateTopic.resources
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.NotificationSender.resources
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.SendMessage.resources
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.Subscriber.resources
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.csproj.GenerateResource.Cache
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.exe
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.pdb
+C:\AmazonSNS\AwsSnsV.04\AwsSnsV.04\AwsSnsSample1\obj\Debug\AwsSnsSample1.csprojResolveAssemblyReference.cache
